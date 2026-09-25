@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790296126 source:c:\users\amd\desktop\nueva carpeta\programa 3.11\main.c
+	<stdio.h>
+	<stdlib.h>
+
