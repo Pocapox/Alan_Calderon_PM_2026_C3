@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793238903 source:c:\users\amd\desktop\nueva carpeta\memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
